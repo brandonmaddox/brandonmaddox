@@ -15,7 +15,7 @@ Type 1 diabetic for over 30 years, obsessed with achieving normal blood glucose 
 
 - 🏠 At home, I'm programming, working on personal data projects, learning about git, github, and version control. 
  
-- 👯 I’m looking to collaborate on open source projects, particpate in machine learnng competitions, and broaden the my network within the data community.
+- 👯 I’m looking to collaborate on open source projects, particpate in machine learnng competitions, and broaden the my network within the data community. LinkedIn -> https://www.linkedin.com/in/brandon-maddox-pmp/
 
 - 💬 Ask me about my diabetes, my personal data projects, my son, fitness journey, anything really... Just say hi! My email is below. 
    
