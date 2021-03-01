@@ -19,11 +19,11 @@ Type 1 diabetic for over 30 years, obsessed with achieving normal blood glucose 
 
 - 💬 Ask me about my diabetes, my personal data projects, my son, fitness journey, anything really... Just say hi!
 
-- 📫 How to reach me:
-#!/bin/python3
+You can reach me at:
+  #!/bin/python3
 
-server = 'gmail.com'
-last, first = 'maddox', 'b'
-num = 10000 + 913
-print(first + last + str(num) + '@' + '{}'.format(server))
+  server = 'gmail.com'
+  last, first = 'maddox', 'b'
+  num = 10000 + 913
+  print(first + last + str(num) + '@' + '{}'.format(server))
 
