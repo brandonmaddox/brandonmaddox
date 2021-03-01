@@ -17,13 +17,19 @@ Type 1 diabetic for over 30 years, obsessed with achieving normal blood glucose 
  
 - 👯 I’m looking to collaborate on open source projects, particpate in machine learnng competitions, and broaden the my network within the data community.
 
-- 💬 Ask me about my diabetes, my personal data projects, my son, fitness journey, anything really... Just say hi!
-
-- 📫 How to reach me:
-#!/bin/python3
-
-server = 'gmail.com'
-last, first = 'maddox', 'b'
-num = 10000 + 913
-print(first + last + str(num) + '@' + '{}'.format(server))
-
+- 💬 Ask me about my diabetes, my personal data projects, my son, fitness journey, anything really... Just say hi! My email is below. 
+   
+```python
+    #!/bin/python3
+    def get_email(user_entry):
+        if user_entry.lower() == 'yes':
+            server = 'gmail.com'
+            last, first = 'maddox', 'b'
+            num = 10000 + 913
+            print(first + last + str(num) + '@' + '{}'.format(server))
+        else:
+            print('Ok, have a nice day!')
+            
+    user_entry = input('Can I give you my email address? (yes/no): ')
+    get_email(user_entry)
+```
