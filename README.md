@@ -12,7 +12,7 @@ Type 1 diabetic for over 30 years, obsessed with achieving normal blood glucose 
 
 - 🌱 At school, I'm currently learning about data warehousing (all that data you have, it has to be stored somewhere), sales/marketing analytics (how satisfaction impacts customer lifetime value), and modern regression methods. Find out more about the MS Analytics program here -> https://mays.tamu.edu/ms-analytics/
 
-- 🏠 At home, I'm programming, working on personal data projects, and learning about software/web development through the lens of Git, GitHub, and version control. 
+- 🏠 At home, I'm programming, working on personal data projects, and building my brand through my personal website. Check it out at -> https://www.maddoxmachinelearning.com/
 
 - 👯 I'm looking to collaborate on open source projects, participate in machine learning competitions, and broaden my network within the data community. LinkedIn -> https://www.linkedin.com/in/brandon-maddox-pmp/
 
